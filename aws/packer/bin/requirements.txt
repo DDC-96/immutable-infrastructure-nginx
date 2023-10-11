@@ -2,3 +2,4 @@
 
 # aws/packer/bin/run - run bash script 
 
+# aws/terraform/bin/destroy - Destroy aws resources  
