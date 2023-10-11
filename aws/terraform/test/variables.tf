@@ -6,7 +6,7 @@ variable "az_count" {
   default = 1
 }
 variable "project_name" {
-    default = "nginx-test"
+    default = "nginx"
 }
 variable "tags" {
     default = {
